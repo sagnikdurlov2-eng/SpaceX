@@ -1,5 +1,9 @@
 # 🛰️ Space Registry Smart Contract (Soroban)
 
+![Uploading image.png…]()
+
+
+
 ## 📌 Project Description
 
 Space Registry is a decentralized application built on the **Stellar Soroban smart contract platform** that enables users to register and manage ownership of unique space assets such as satellites, orbital slots, and future space infrastructure.
