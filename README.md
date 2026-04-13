@@ -1,6 +1,7 @@
 # 🛰️ Space Registry Smart Contract (Soroban)
 
-![Uploading image.png…]()
+<img width="1920" height="1077" alt="screencapture-stellar-expert-explorer-testnet-contract-CASBEL22I5SLRI23HN54IZPUCZTETGAMJNAUA4YDDIALEZUW3SQCHKWZ-2026-04-13-14_07_04" src="https://github.com/user-attachments/assets/46dde5e5-f95c-4e81-989b-f015c20e39b0" />
+
 
 
 
