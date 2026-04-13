@@ -50,6 +50,9 @@ All operations are **fully on-chain**, ensuring transparency and security withou
 **Contract ID:**
 `CASBEL22I5SLRI23HN54IZPUCZTETGAMJNAUA4YDDIALEZUW3SQCHKWZ`
 
+**Deployed link:**
+https://stellar.expert/explorer/testnet/contract/CASBEL22I5SLRI23HN54IZPUCZTETGAMJNAUA4YDDIALEZUW3SQCHKWZ
+
 ---
 
 ## 🛠️ Tech Stack
